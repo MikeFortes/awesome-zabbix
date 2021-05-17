@@ -3,14 +3,13 @@
 > A curated list of awesome Zabbix resources, projects and tools.
 
 <!--lint ignore double-link-->
-[![Prometheus](media/zabbix.png)](https://www.zabbix.com)
+[![Zabbix](media/zabbix.png)](https://www.zabbix.com)
 
 Zabbix is an open-source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services.
 ## Contents
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
-- [Youtube Channels](#videos)
-- [Podcasts and interviews](#podcasts-and-interviews)
+- [Videos](#videos)
 
 ## Official resources
 <!--lint ignore double-link-->
